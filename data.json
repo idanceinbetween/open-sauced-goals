@@ -1,26 +1,26 @@
 [
   {
     "full_name": "corda/corda",
-    "stargazers_count": 3609,
+    "stargazers_count": 3611,
     "open_issues_count": 224,
-    "forks_count": 989
+    "forks_count": 991
   },
   {
     "full_name": "openmrs/openmrs-core",
-    "stargazers_count": 1006,
-    "open_issues_count": 168,
+    "stargazers_count": 1007,
+    "open_issues_count": 171,
     "forks_count": 2857
   },
   {
     "full_name": "openmrs/openmrs-core",
-    "stargazers_count": 1006,
-    "open_issues_count": 168,
+    "stargazers_count": 1007,
+    "open_issues_count": 171,
     "forks_count": 2857
   },
   {
     "full_name": "idanceinbetween/gluck-ui",
     "stargazers_count": 0,
-    "open_issues_count": 0,
+    "open_issues_count": 1,
     "forks_count": 0
   }
 ]
