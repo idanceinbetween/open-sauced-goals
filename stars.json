@@ -7,13 +7,13 @@
   },
   {
     "full_name": "openfoodfacts/openfoodfacts-androidapp",
-    "stargazers_count": 601,
-    "open_issues_count": 317,
-    "forks_count": 404
+    "stargazers_count": 600,
+    "open_issues_count": 322,
+    "forks_count": 405
   },
   {
     "full_name": "gradle/kotlin-dsl-samples",
-    "stargazers_count": 3429,
+    "stargazers_count": 3433,
     "open_issues_count": 38,
     "forks_count": 411
   },
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "corda/corda",
-    "stargazers_count": 3695,
+    "stargazers_count": 3698,
     "open_issues_count": 234,
     "forks_count": 1020
   },
   {
     "full_name": "openmrs/openmrs-core",
-    "stargazers_count": 1030,
-    "open_issues_count": 49,
-    "forks_count": 2942
+    "stargazers_count": 1032,
+    "open_issues_count": 51,
+    "forks_count": 2944
   },
   {
     "full_name": "kudulab/dojo",
@@ -43,8 +43,8 @@
   },
   {
     "full_name": "a11yproject/a11yproject.com",
-    "stargazers_count": 3401,
-    "open_issues_count": 50,
+    "stargazers_count": 3402,
+    "open_issues_count": 48,
     "forks_count": 509
   },
   {
@@ -55,56 +55,56 @@
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 44069,
-    "open_issues_count": 184,
-    "forks_count": 6109
+    "stargazers_count": 44145,
+    "open_issues_count": 185,
+    "forks_count": 6115
   },
   {
     "full_name": "elsewhencode/project-guidelines",
-    "stargazers_count": 25422,
-    "open_issues_count": 10,
-    "forks_count": 2712
+    "stargazers_count": 25431,
+    "open_issues_count": 11,
+    "forks_count": 2717
   },
   {
     "full_name": "lauragift21/awesome-learning-resources",
-    "stargazers_count": 3749,
+    "stargazers_count": 3755,
     "open_issues_count": 2,
-    "forks_count": 654
+    "forks_count": 655
   },
   {
     "full_name": "hemanth/functional-programming-jargon",
-    "stargazers_count": 14211,
+    "stargazers_count": 14215,
     "open_issues_count": 22,
-    "forks_count": 848
+    "forks_count": 847
   },
   {
     "full_name": "googlecreativelab/ar-drawing-java",
-    "stargazers_count": 393,
+    "stargazers_count": 394,
     "open_issues_count": 14,
     "forks_count": 85
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 27682,
-    "open_issues_count": 7,
-    "forks_count": 2136
+    "stargazers_count": 27773,
+    "open_issues_count": 5,
+    "forks_count": 2148
   },
   {
     "full_name": "micro/micro",
-    "stargazers_count": 10345,
+    "stargazers_count": 10348,
     "open_issues_count": 85,
     "forks_count": 917
   },
   {
     "full_name": "madhuakula/kubernetes-goat",
-    "stargazers_count": 1569,
+    "stargazers_count": 1572,
     "open_issues_count": 5,
-    "forks_count": 207
+    "forks_count": 209
   },
   {
     "full_name": "reach/reach-ui",
-    "stargazers_count": 4540,
-    "open_issues_count": 54,
+    "stargazers_count": 4546,
+    "open_issues_count": 55,
     "forks_count": 453
   },
   {
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "dbacinski/Design-Patterns-In-Kotlin",
-    "stargazers_count": 4852,
+    "stargazers_count": 4853,
     "open_issues_count": 10,
-    "forks_count": 584
+    "forks_count": 585
   },
   {
     "full_name": "First-Steps-in-DDD-Community/first-steps-in-ddd-solutions",
@@ -145,19 +145,19 @@
   },
   {
     "full_name": "reakit/reakit",
-    "stargazers_count": 4949,
-    "open_issues_count": 40,
+    "stargazers_count": 4953,
+    "open_issues_count": 38,
     "forks_count": 277
   },
   {
     "full_name": "grommet/grommet",
-    "stargazers_count": 7485,
-    "open_issues_count": 220,
+    "stargazers_count": 7509,
+    "open_issues_count": 224,
     "forks_count": 915
   },
   {
     "full_name": "downshift-js/downshift",
-    "stargazers_count": 9896,
+    "stargazers_count": 9904,
     "open_issues_count": 65,
     "forks_count": 835
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "cyrildiagne/ar-facedoodle",
-    "stargazers_count": 502,
+    "stargazers_count": 503,
     "open_issues_count": 10,
     "forks_count": 78
   }
