@@ -7,8 +7,8 @@
   },
   {
     "full_name": "openfoodfacts/openfoodfacts-androidapp",
-    "stargazers_count": 602,
-    "open_issues_count": 323,
+    "stargazers_count": 603,
+    "open_issues_count": 326,
     "forks_count": 405
   },
   {
@@ -25,26 +25,26 @@
   },
   {
     "full_name": "corda/corda",
-    "stargazers_count": 3703,
-    "open_issues_count": 231,
-    "forks_count": 1023
+    "stargazers_count": 3706,
+    "open_issues_count": 232,
+    "forks_count": 1025
   },
   {
     "full_name": "openmrs/openmrs-core",
-    "stargazers_count": 1033,
-    "open_issues_count": 53,
-    "forks_count": 2959
+    "stargazers_count": 1034,
+    "open_issues_count": 52,
+    "forks_count": 2960
   },
   {
     "full_name": "kudulab/dojo",
-    "stargazers_count": 251,
-    "open_issues_count": 6,
+    "stargazers_count": 252,
+    "open_issues_count": 7,
     "forks_count": 12
   },
   {
     "full_name": "a11yproject/a11yproject.com",
-    "stargazers_count": 3405,
-    "open_issues_count": 48,
+    "stargazers_count": 3404,
+    "open_issues_count": 49,
     "forks_count": 510
   },
   {
@@ -55,27 +55,27 @@
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 44221,
-    "open_issues_count": 185,
-    "forks_count": 6128
+    "stargazers_count": 44294,
+    "open_issues_count": 184,
+    "forks_count": 6133
   },
   {
     "full_name": "elsewhencode/project-guidelines",
-    "stargazers_count": 25440,
+    "stargazers_count": 25446,
     "open_issues_count": 11,
-    "forks_count": 2719
+    "forks_count": 2721
   },
   {
     "full_name": "lauragift21/awesome-learning-resources",
-    "stargazers_count": 3761,
+    "stargazers_count": 3765,
     "open_issues_count": 2,
     "forks_count": 654
   },
   {
     "full_name": "hemanth/functional-programming-jargon",
-    "stargazers_count": 14215,
+    "stargazers_count": 14220,
     "open_issues_count": 22,
-    "forks_count": 847
+    "forks_count": 846
   },
   {
     "full_name": "googlecreativelab/ar-drawing-java",
@@ -85,33 +85,33 @@
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 27837,
+    "stargazers_count": 27907,
     "open_issues_count": 5,
-    "forks_count": 2159
+    "forks_count": 2165
   },
   {
     "full_name": "micro/micro",
-    "stargazers_count": 10359,
-    "open_issues_count": 84,
-    "forks_count": 917
+    "stargazers_count": 10369,
+    "open_issues_count": 85,
+    "forks_count": 918
   },
   {
     "full_name": "madhuakula/kubernetes-goat",
-    "stargazers_count": 1574,
+    "stargazers_count": 1581,
     "open_issues_count": 5,
-    "forks_count": 210
+    "forks_count": 211
   },
   {
     "full_name": "reach/reach-ui",
-    "stargazers_count": 4554,
-    "open_issues_count": 56,
-    "forks_count": 453
+    "stargazers_count": 4560,
+    "open_issues_count": 58,
+    "forks_count": 454
   },
   {
     "full_name": "skovy/typed-scss-modules",
-    "stargazers_count": 228,
-    "open_issues_count": 18,
-    "forks_count": 27
+    "stargazers_count": 229,
+    "open_issues_count": 17,
+    "forks_count": 28
   },
   {
     "full_name": "GoogleCloudPlatform/air-draw-demo",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "dbacinski/Design-Patterns-In-Kotlin",
-    "stargazers_count": 4857,
+    "stargazers_count": 4865,
     "open_issues_count": 10,
-    "forks_count": 584
+    "forks_count": 585
   },
   {
     "full_name": "First-Steps-in-DDD-Community/first-steps-in-ddd-solutions",
@@ -133,38 +133,38 @@
   },
   {
     "full_name": "scottaohara/accessibility_interview_questions",
-    "stargazers_count": 260,
+    "stargazers_count": 261,
     "open_issues_count": 1,
     "forks_count": 38
   },
   {
     "full_name": "googlecreativelab/creatability-components",
-    "stargazers_count": 261,
+    "stargazers_count": 262,
     "open_issues_count": 13,
     "forks_count": 37
   },
   {
     "full_name": "reakit/reakit",
-    "stargazers_count": 4966,
-    "open_issues_count": 38,
-    "forks_count": 278
+    "stargazers_count": 5005,
+    "open_issues_count": 37,
+    "forks_count": 281
   },
   {
     "full_name": "grommet/grommet",
-    "stargazers_count": 7517,
-    "open_issues_count": 218,
-    "forks_count": 916
+    "stargazers_count": 7526,
+    "open_issues_count": 215,
+    "forks_count": 917
   },
   {
     "full_name": "downshift-js/downshift",
-    "stargazers_count": 9913,
+    "stargazers_count": 9916,
     "open_issues_count": 67,
-    "forks_count": 838
+    "forks_count": 835
   },
   {
     "full_name": "binkley/modern-java-practices",
-    "stargazers_count": 196,
-    "open_issues_count": 7,
+    "stargazers_count": 197,
+    "open_issues_count": 11,
     "forks_count": 18
   },
   {
