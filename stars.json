@@ -8,12 +8,12 @@
   {
     "full_name": "openfoodfacts/openfoodfacts-androidapp",
     "stargazers_count": 608,
-    "open_issues_count": 332,
+    "open_issues_count": 330,
     "forks_count": 409
   },
   {
     "full_name": "gradle/kotlin-dsl-samples",
-    "stargazers_count": 3458,
+    "stargazers_count": 3457,
     "open_issues_count": 38,
     "forks_count": 416
   },
@@ -25,15 +25,15 @@
   },
   {
     "full_name": "corda/corda",
-    "stargazers_count": 3730,
+    "stargazers_count": 3731,
     "open_issues_count": 236,
-    "forks_count": 1034
+    "forks_count": 1035
   },
   {
     "full_name": "openmrs/openmrs-core",
-    "stargazers_count": 1042,
-    "open_issues_count": 54,
-    "forks_count": 2972
+    "stargazers_count": 1044,
+    "open_issues_count": 52,
+    "forks_count": 2973
   },
   {
     "full_name": "kudulab/dojo",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "a11yproject/a11yproject.com",
-    "stargazers_count": 3407,
+    "stargazers_count": 3408,
     "open_issues_count": 48,
     "forks_count": 510
   },
@@ -55,21 +55,21 @@
   },
   {
     "full_name": "florinpop17/app-ideas",
-    "stargazers_count": 45179,
-    "open_issues_count": 251,
-    "forks_count": 6306
+    "stargazers_count": 45275,
+    "open_issues_count": 255,
+    "forks_count": 6326
   },
   {
     "full_name": "elsewhencode/project-guidelines",
-    "stargazers_count": 25527,
+    "stargazers_count": 25534,
     "open_issues_count": 11,
-    "forks_count": 2735
+    "forks_count": 2734
   },
   {
     "full_name": "lauragift21/awesome-learning-resources",
     "stargazers_count": 3794,
     "open_issues_count": 2,
-    "forks_count": 662
+    "forks_count": 663
   },
   {
     "full_name": "hemanth/functional-programming-jargon",
@@ -85,33 +85,33 @@
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 29101,
-    "open_issues_count": 7,
-    "forks_count": 2282
+    "stargazers_count": 29173,
+    "open_issues_count": 8,
+    "forks_count": 2289
   },
   {
     "full_name": "micro/micro",
-    "stargazers_count": 10427,
+    "stargazers_count": 10487,
     "open_issues_count": 89,
-    "forks_count": 922
+    "forks_count": 928
   },
   {
     "full_name": "madhuakula/kubernetes-goat",
-    "stargazers_count": 1600,
+    "stargazers_count": 1602,
     "open_issues_count": 5,
-    "forks_count": 221
+    "forks_count": 223
   },
   {
     "full_name": "reach/reach-ui",
-    "stargazers_count": 4654,
-    "open_issues_count": 61,
+    "stargazers_count": 4668,
+    "open_issues_count": 60,
     "forks_count": 463
   },
   {
     "full_name": "skovy/typed-scss-modules",
     "stargazers_count": 236,
-    "open_issues_count": 18,
-    "forks_count": 28
+    "open_issues_count": 19,
+    "forks_count": 29
   },
   {
     "full_name": "GoogleCloudPlatform/air-draw-demo",
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "dbacinski/Design-Patterns-In-Kotlin",
-    "stargazers_count": 4926,
+    "stargazers_count": 4928,
     "open_issues_count": 10,
     "forks_count": 590
   },
@@ -133,7 +133,7 @@
   },
   {
     "full_name": "scottaohara/accessibility_interview_questions",
-    "stargazers_count": 271,
+    "stargazers_count": 273,
     "open_issues_count": 1,
     "forks_count": 38
   },
@@ -145,27 +145,27 @@
   },
   {
     "full_name": "reakit/reakit",
-    "stargazers_count": 5059,
+    "stargazers_count": 5064,
     "open_issues_count": 41,
     "forks_count": 284
   },
   {
     "full_name": "grommet/grommet",
-    "stargazers_count": 7579,
-    "open_issues_count": 206,
-    "forks_count": 921
+    "stargazers_count": 7588,
+    "open_issues_count": 208,
+    "forks_count": 925
   },
   {
     "full_name": "downshift-js/downshift",
-    "stargazers_count": 9986,
-    "open_issues_count": 75,
-    "forks_count": 845
+    "stargazers_count": 9994,
+    "open_issues_count": 76,
+    "forks_count": 849
   },
   {
     "full_name": "binkley/modern-java-practices",
-    "stargazers_count": 200,
+    "stargazers_count": 201,
     "open_issues_count": 12,
-    "forks_count": 19
+    "forks_count": 20
   },
   {
     "full_name": "dimonga/OMNIA-AI-TRUCK",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "cyrildiagne/ar-facedoodle",
-    "stargazers_count": 507,
+    "stargazers_count": 508,
     "open_issues_count": 10,
     "forks_count": 78
   }
