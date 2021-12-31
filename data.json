@@ -1,11 +1,5 @@
 [
   {
-    "full_name": "idanceinbetween/open-sauced-goals",
-    "stargazers_count": 0,
-    "open_issues_count": 7,
-    "forks_count": 0
-  },
-  {
     "full_name": "openfoodfacts/openfoodfacts-androidapp",
     "stargazers_count": 616,
     "open_issues_count": 327,
@@ -19,21 +13,21 @@
   },
   {
     "full_name": "corda/corda",
-    "stargazers_count": 3779,
-    "open_issues_count": 233,
+    "stargazers_count": 3781,
+    "open_issues_count": 234,
     "forks_count": 1044
   },
   {
     "full_name": "openmrs/openmrs-core",
-    "stargazers_count": 1068,
-    "open_issues_count": 58,
-    "forks_count": 3002
+    "stargazers_count": 1069,
+    "open_issues_count": 48,
+    "forks_count": 3005
   },
   {
     "full_name": "openmrs/openmrs-core",
-    "stargazers_count": 1068,
-    "open_issues_count": 58,
-    "forks_count": 3002
+    "stargazers_count": 1069,
+    "open_issues_count": 48,
+    "forks_count": 3005
   },
   {
     "full_name": "idanceinbetween/gluck-ui",
