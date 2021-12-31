@@ -1,0 +1,16 @@
+{
+  "name": "open-sauced-goals",
+  "version": "0.1.0",
+  "description": "This is the companion repository to Open Sauced. All data in this repository is a mirror of the data you see on the [opensauced.pizza](https://opensauced.pizza) dashboard.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idanceinbetween/open-sauced-goals.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idanceinbetween/open-sauced-goals/issues"
+  },
+  "homepage": "https://github.com/idanceinbetween/open-sauced-goals#readme"
+}
